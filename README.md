@@ -20,4 +20,4 @@ This is a demo repository for [AWS ALB Built-In Authentication](https://aws.amaz
 
 When you successfully authenticate against the ALB, you should be able to see the decoded **amzn-oidc-data** like this:
 
-![mage-20180713150954](/var/folders/pp/ddc9ml8x66v6b040qlcxn2frtsnnj6/T/abnerworks.Typora/image-201807131509546.png)
+![mage-20180713150954](./images/image-201807131509546.png)
