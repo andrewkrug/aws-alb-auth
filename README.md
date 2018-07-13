@@ -4,19 +4,19 @@ This is a demo repository for [AWS ALB Built-In Authentication](https://aws.amaz
 
 
 
-#### Cognito User Pool Authentication
+## Cognito User Pool Authentication
 
 ### [https://userpool.albauth.pahud.net](https://userpool.albauth.pahud.net)
 
-(try login with username: demo@demo.com and password: 12345678 or sign up a new user if you like)
+(try login with username: **demo@demo.com** and password: **12345678** or sign up a new user if you like)
 
-#### Facebook Authentication
+## Facebook Authentication
 
 ### https://fb.albauth.pahud.net
 
+(try login with your Facebook ID)
 
-
-### Decoded OIDC Data
+## Decoded OIDC Data
 
 When you successfully authenticate against the ALB, you should be able to see the decoded **amzn-oidc-data** like this:
 
