@@ -4,6 +4,18 @@ This is a demo repository for [AWS ALB Built-In Authentication](https://aws.amaz
 
 
 
+## Auth0 Authentication
+
+### https://auth0.albauth.pahud.net
+
+![mage-20180713150954](./images/aws-alb-auth-auth0-weibo.png)
+
+
+
+An integration with [Auth0](https://auth0.com/) and ALB Auth.
+
+(新浪微博LOGIN示範正在審核中，審核完成即可使用)
+
 ## Cognito User Pool Authentication
 
 ### [https://userpool.albauth.pahud.net](https://userpool.albauth.pahud.net)
