@@ -12,9 +12,7 @@ This is a demo repository for [AWS ALB Built-In Authentication](https://aws.amaz
 
 
 
-An integration with [Auth0](https://auth0.com/) and ALB Auth.
-
-(新浪微博LOGIN示範正在審核中，審核完成即可使用)
+An integration with [Auth0](https://auth0.com/) , Cognito and ALB Auth. Check the demo in [this tweet](https://twitter.com/pahudnet/status/1022529905576177664).
 
 ## Cognito User Pool Authentication
 
